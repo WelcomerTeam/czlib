@@ -1,3 +1,3 @@
-module github.com/TheRockettek/czlib
+module github.com/WelcomerTeam/czlib
 
-go 1.13
+go 1.16
